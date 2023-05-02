@@ -1,0 +1,215 @@
+In the permission string 'rwxr--r--', _____ has read, write, and execute access.
+the file's group
+the file's owner    ---->   [Correct]
+no one
+all users on the system
+
+
+
+
+File permissions can be represented _____ or in _____.
+octally; representationally
+symbolically; octal notation   ---->   [Correct]
+symbolically; metaphorically
+directly; indirectly
+
+
+To use the root user's privileges without switching over to it, you can use the _____ command.
+admin
+do-now
+Sudo    ---->   [Correct]
+passwd
+
+
+The _____ command lets you edit /etc/sudoers to control access to sudo.
+systemctl
+Visudo    ---->   [Correct]
+useradd
+usermod
+
+
+What package manager is often used on Ubuntu to search for and manage software?
+yum
+touch
+apt    ---->   [Correct]
+install
+
+
+Before requesting software to install, it's a good idea to update the package manager's cache with _____.
+apt install cache-updates
+apt new-cache
+apt upgrade
+apt update    ---->   [Correct]
+
+
+SSH allows you to remotely log into a system. What does SSH stand for?
+Secure Secret Hotline
+Secure Shell    ---->   [Correct]
+Secret Shell
+Sneaky System Hatch
+
+
+What is a common utility for providing ssh service on a machine?
+ftp
+access-server
+shell-admin
+Openssh-server    ---->   [Correct]
+
+
+The _____ command securely copies files from one system to another via ssh.
+ftp
+mv
+cp
+Scp    ---->   [Correct]
+
+
+You need to configure a file sharing service like SMB in order to transfer files to and from a server.
+TRUE
+FALSE    ---->   [Correct]
+
+
+The _____ outlines where certain kinds of files are stored on a Linux system.
+Directory Standard
+Filesystem Harmonization Scheme
+Formal Hierarchy Standard
+Filesystem Hierarchy Standard    ---->   [Correct]
+Files that start with a _____ character are customarily hidden from view.
+lowercase
+dot or period    ---->   [Correct]
+space
+dollar-sign
+Logs and configuration files on Linux are usually _____ files.
+encrypted
+Text    ---->   [Correct]
+binary
+database
+Nano and vim are popular text editors on Linux.
+TRUE    ---->   [Correct]
+FALSE
+What is the command to move a file or directory?
+mv    ---->   [Correct]
+cp
+rm
+ls
+What is the command to copy a file or directory?
+cp    ---->   [Correct]
+mv
+ls
+rm
+A hard link will break if a file is renamed.
+TRUE
+FALSE    ---->   [Correct]
+A soft, or symbolic link can be created with the _____ command.
+symlink
+ln -s    ---->   [Correct]
+link -s
+ln -y
+The 'find' command can search for files using name, date, and other criteria.
+TRUE    ---->   [Correct]
+FALSE
+This command will find files in the user's home folder larger than 100MB:
+find / -size -100M
+find +100MB ~
+find ~ -size +100M    ---->   [Correct]
+find -size 100M ~
+The '>' redirect operator will overwrite a destination file, while _____ will append to it.
+<>
+>>    ---->   [Correct]
+><
+->
+When redirecting output, what does '$2' represent?
+stdin, or the standard input
+the second item in a list In   ---->   [Correct]
+stdout, or the standard output
+stderr, or the standard error
+What Linux tool can be used to compare the contents of text files?
+mirror
+stat
+apt
+diff    ---->   [Correct]
+Diff compares file by _____.
+size
+line    ---->   [Correct]
+character
+word
+The _____ command compares the bytes that two files contain
+cmp    ---->   [Correct]
+echo
+ls
+stat
+Comparing the contents of two images is easier in a graphics program than at the command line.
+TRUE    ---->   [Correct]
+FALSE
+Which command stands for 'tape archive' and combines many files into one?
+tar    ---->   [Correct]
+arc
+tape
+tarchive
+An archive _____ files, and compression _____.
+compresses; secures them.
+combines; reduces their size    ---->   [Correct]
+encrypts; combines them.
+combines; distributes them.
+Which command is helpful for testing and using regular expressions?
+ls
+grep    ---->   [Correct]
+mkdir
+less
+A regular expression represents a pattern.
+TRUE    ---->   [Correct]
+FALSE
+AWK is helpful for re-ordering text output.
+TRUE    ---->   [Correct]
+FALSE
+Sed is helpful for filtering or modifying text.
+TRUE    ---->   [Correct]
+FALSE
+What filesystems are commonly used for Linux?
+ext2, ext3, and ext4
+FAT and XFS
+NTFS and SMB
+NTFS and HFS+
+Filesystems and hard drives are the same thing.
+TRUE
+FALSE    ---->   [Correct]
+Before installing Linux, you need an installer to boot from.
+TRUE    ---->   [Correct]
+FALSE
+During installation, you can create an administrative user.
+TRUE    ---->   [Correct]
+FALSE
+What technology is often used to start an installer over the network?
+ext4
+FAT32
+PXE
+systemd
+Installation images can be hosted on the internet or the local network.
+TRUE    ---->   [Correct]
+FALSE
+A virtual machine keeps a Linux installation separate from its host OS.
+TRUE    ---->   [Correct]
+FALSE
+To install in a virtual machine, VM software can attach an ISO file directly.
+TRUE    ---->   [Correct]
+FALSE
+To switch to the console tty3, press _____.
+Shift + F3
+Ctrl + F3
+Alt + Tab
+Ctrl + Alt + F3    ---->   [Correct]
+The _____ command shows which users are logged in and what consoles they're using.
+who    ---->   [Correct]
+which
+whereis
+wall
+The _____, or manual pages, can be accessed with the _____ command.
+manpages; page
+manpages; man    ---->   [Correct]
+manual; manpage
+manpages; help
+In the command 'man 8 ping', what does the 8 refers to?
+the version of the ping software to use
+the section number to show    ---->   [Correct]
+the version of the man software to use
+how many times to show the information
+
